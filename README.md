@@ -6,3 +6,5 @@
 and
 
 ```go run cmd/main.go```
+
+## The service run on port 8080 by default
