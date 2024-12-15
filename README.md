@@ -3,7 +3,7 @@
 
 ```go mod tidy```
 
-and
+Make sure to change database connection through the ```config/config.go``` file by changing the value according your local database host and credentials. And then create empty database e.g. spagetiX, finally run the server:
 
 ```go run cmd/main.go```
 
